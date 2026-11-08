@@ -1,0 +1,6 @@
+{
+  "name": "TeleVPS 24/7 - Telegram Music Bot Hosting Hub",
+  "description": "Complete guide & tools to run Telegram Music Bots 24/7 for free on VPS & cloud platforms (Oracle, Google Cloud, AWS, Render, Koyeb) with config & systemd generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
